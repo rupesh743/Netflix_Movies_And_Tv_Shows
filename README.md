@@ -7,7 +7,7 @@ This dataset consists of tv shows and movies available on Netflix as of 2019. Th
 
 In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset.
 
-# **In this project, you are required to do**
+In this project, you are required to do
 
 - Exploratory Data Analysis
 
@@ -69,6 +69,8 @@ This cleaned data is then used to conduct EDA in order to understand it better a
 
 Once obtained the required insights from the EDA, we start with Pre-processing the text data by removing the punctuation, and, stop words. This filtered data is passed through TF - IDF Vectorizer since we are conducting a text-based clustering and the model needs the data to be vectorized in order to predict the desired results.
 
-Finally, K–Means clustering is utilized to form 10 distinct clusters with similar data points.
+Finally, K–Means clustering is utilized to form 7 distinct clusters with similar data points.
+
+Hierarchical clustering and DB SCAN also been implemented.
 
 Using the data provided, we also implemented a simple recommender system that successfully generates Ten similar Movies or Tv-Shows for the given title.
