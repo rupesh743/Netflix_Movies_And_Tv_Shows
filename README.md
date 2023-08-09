@@ -1,5 +1,6 @@
 # Netflix_Movies_And_Tv_Shows
 An analysis of Netflix's 2019 dataset, exploring the growth of TV shows and decline of movies, performing hypothesis tests, feature engineering, and clustering for valuable insights.
+
 **Problem Statement**
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine.
 
@@ -7,7 +8,7 @@ In 2018, they released an interesting report which shows that the number of TV s
 
 In this project, you are required to do:
 
-Exploratory Data Analysis
+**Exploratory Data Analysis**
 
 Understanding what type content is available in different countries
 
@@ -15,7 +16,8 @@ Is Netflix has increasingly focusing on TV rather than movies in recent years.
 
 Clustering similar content by matching text-based features
 
-Objectives:
+**Objectives**
+
 Conduct Exploratory Data Analysis.
 Try understanding what type content is available in different countries.
 Check if Netflix is increasingly focusing on TV rather than movies in recent years.
