@@ -17,37 +17,46 @@ In 2018, they released an interesting report which shows that the number of TV s
 
 - Clustering similar content by matching text-based features
 
-**Objectives**
+# **Objectives**
 
-Conduct Exploratory Data Analysis.
-Try understanding what type content is available in different countries.
-Check if Netflix is increasingly focusing on TV rather than movies in recent years.
-Clustering similar content by matching text-based features.
-Methods used:
-Descriptive Statistics.
-Data Visualization.
-Machine Learning.
-Libraries utilized:
-NumPy and Pandas - For dataset cleaning and analysis.
-Matplotlib, Plotly and Seaborn - For Data Visualization.
-SkLearn and nltk - For machine learning and clustering.
-Dataset used:
+- Conduct Exploratory Data Analysis.
+- Try understanding what type content is available in different countries.
+- Check if Netflix is increasingly focusing on TV rather than movies in recent years.
+- Clustering similar content by matching text-based features.
+
+# **Methods used:**
+
+- Descriptive Statistics.
+- Data Visualization.
+- Machine Learning.
+
+# **Libraries utilized:**
+
+- NumPy and Pandas - For dataset cleaning and analysis.
+- Matplotlib, Plotly and Seaborn - For Data Visualization.
+- SkLearn and nltk - For machine learning and clustering.
+
+# **Dataset used:**
+
 This dataset consists of tv shows and movies available on Netflix as of 2019. It is collected from Flixable which is a third-party Netflix search engine.
 
-Attribute Information:
-show_id : Unique ID for every Movie / Tv Show
-type : Identifier - A Movie or TV Show
-title : Title of the Movie / Tv Show
-director : Director of the Movie
-cast : Actors involved in the movie / show
-country : Country where the movie / show was produced
-date_added : Date it was added on Netflix
-release_year : Actual Releaseyear of the movie / show
-rating : TV Rating of the movie / show
-duration : Total Duration - in minutes or number of seasons
-listed_in : Genere
-description: The Summary description
-Project Overview:
+# **Attribute Information:**
+
+- show_id : Unique ID for every Movie / Tv Show
+- type : Identifier - A Movie or TV Show
+- title : Title of the Movie / Tv Show
+- director : Director of the Movie
+- cast : Actors involved in the movie / show
+- country : Country where the movie / show was produced
+- date_added : Date it was added on Netflix
+- release_year : Actual Releaseyear of the movie / show
+- rating : TV Rating of the movie / show
+- duration : Total Duration - in minutes or number of seasons
+- listed_in : Genere
+- description: The Summary description
+
+# **Project Overview:**
+
 Netflix, is an American subscription streaming service and production company. It was founded in 1997 by Reed Hastings and Marc Randolph in Scott’s Valley, California.
 
 It offers a library of films and television series through distribution deals as well as its own productions, known as Netflix Originals.
